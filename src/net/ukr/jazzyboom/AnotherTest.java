@@ -2,6 +2,8 @@ package net.ukr.jazzyboom;
 
 public class AnotherTest {
  private String test = null;
+ private int counter = 0;
+ private long sum = 0L;
  
  
  
