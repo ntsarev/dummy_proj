@@ -1,4 +1,4 @@
-ust another text file
+trust another text file
 sdfv
 sdfsd
 vzxv
@@ -6,3 +6,4 @@ cvsdfsd
 another line
 test
 8th line
+more info
