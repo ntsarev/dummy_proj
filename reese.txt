@@ -8,3 +8,4 @@ test
 8th line
 more info
 ok
+fast-forward
