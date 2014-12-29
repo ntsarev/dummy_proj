@@ -6,11 +6,15 @@ public class AnotherTest {
  private long sum = 0L;
  
  
+ private void doWork() {
+	 //do smth here
+ }
  
  public static void main(String[] args) {
    // replaced with comment
    // 3rd option
    // 4th option
+   //5th option
  }
 
 }
