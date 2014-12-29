@@ -11,6 +11,7 @@ public class AnotherTest {
    // replaced with comment
    // 3rd option
    // 4th option
+   //5th option
  }
 
 }
