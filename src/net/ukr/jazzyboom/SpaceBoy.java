@@ -1,8 +1,7 @@
 package net.ukr.jazzyboom;
 
 public class SpaceBoy {
-  // in place edit to verify
-  // next comment
-  //third line
-  //fouth line
+  public static void main (String [] args) {
+    // Add main  
+  }
 }
