@@ -2,3 +2,4 @@ trust another text file
 sdfv
 sdfsd
 Public rebased commit
+Fifth line
