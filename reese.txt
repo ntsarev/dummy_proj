@@ -1,4 +1,4 @@
-trust another text file
+Do NOT trust another text file
 sdfv
 sdfsd
 Public rebased commit
